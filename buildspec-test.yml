@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+
+  pre_build:
+    commands:
+      - echo Placeholder for testing...
+  build:
+    commands:
+      - echo Build started on `date`
+
+  post_build:
+    commands:
+      - echo Placeholder for testing
+
